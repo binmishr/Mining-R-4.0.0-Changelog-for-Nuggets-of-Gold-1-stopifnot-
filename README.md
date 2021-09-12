@@ -1,0 +1,1 @@
+# Mining-R-4.0.0-Changelog-for-Nuggets-of-Gold-1-stopifnot-
